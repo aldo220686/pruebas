@@ -1,0 +1,33 @@
+
+
+Trabajando con Repositorio Local usando Git - Parte 1
+https://www.youtube.com/watch?v=LojPQbNzgeg
+
+Git: Trabajando con el repositorio local - Parte 2
+https://www.youtube.com/watch?v=ZQKmSXcGBNg
+
+Git: Trabajando con el repositorio local - parte 3
+https://www.youtube.com/watch?v=R0LUWSXv6Og
+
+Control de versiones GIT - 4 Trabajo en equipo parte1 - configuracion
+https://www.youtube.com/watch?v=5Ay2axYdGXI
+
+Los mejores clientes gráficos para Git
+https://www.youtube.com/watch?v=cvas1bqGujw
+
+Uso básico de GIT con Bitbucket y Sourcetree
+https://www.youtube.com/watch?v=9lk_YOXK1o4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
